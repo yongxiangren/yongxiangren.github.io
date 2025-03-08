@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: "about title"
+title: "Wang Yibo"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-
-
 
 # About me
 Hi there,this is Yibo Wang,currently preparing for postgraduate examination. A man who is interested in everything and reads books about all kinds of topics.Thanks to those books,I can be very talkative,though mostly i am quiet.Whether I am talkative or not depends on whether you are willing to talk to me
